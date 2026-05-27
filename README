@@ -1,0 +1,10 @@
+# tool-openocd-nuvoton
+
+Nuvoton customized OpenOCD package for PlatformIO.
+
+This package is repackaged from NuEclipse / Nuvoton OpenOCD for PlatformIO integration.
+
+OpenOCD is licensed under GPL-2.0.
+Third-party dependency licenses are kept under the `license/` directory.
+
+This repository does not change the original OpenOCD license.
